@@ -3,8 +3,6 @@ html, body {
     margin: 0;
 }
 
-body {background: hotpink;}
-
 .hero {
     position: relative;
     height: 25vh;
