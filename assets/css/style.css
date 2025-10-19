@@ -19,7 +19,7 @@ html, body {
 
 .hero {
     position: relative;
-    height: 50vh;
+    height: 30vh;
     overflow: hidden;
     color: white;
     isolation: isolate;
