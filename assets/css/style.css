@@ -62,7 +62,7 @@ html, body {
 
 .about-me h2 {
     font-family: "Inter-light", sans-serif;
-    font-weight: 400;
+    font-weight: 700;
     padding: 0 20px;
     max-width: 60vw;
     margin: 0px auto;
@@ -72,4 +72,5 @@ html, body {
 .about-me p {
     font-size: 18px;
     max-width: 50vw;
+    text-align: center;
 }
