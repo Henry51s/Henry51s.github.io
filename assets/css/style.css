@@ -65,14 +65,14 @@ html, body {
     font-weight: 700;
     padding: 0 20px;
     max-width: 60vw;
-    margin: 1vh auto;
+    margin: 5vh auto;
     text-align: center;
 }
 
 .about-me p {
-    font-family: "Inter-light", sans-serif";
+    font-family: "Inter-light", sans-serif;
     font-size: 18px;
     max-width: 60vw;
     text-align: left;
-    margin: 5vh auto;
+    margin: 1vh auto;
 }
