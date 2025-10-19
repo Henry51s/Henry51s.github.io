@@ -70,6 +70,7 @@ html, body {
 }
 
 .about-me p {
+    font-family: "Inter-light", sans-serif";
     font-size: 18px;
     max-width: 60vw;
     text-align: left;
