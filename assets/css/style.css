@@ -10,6 +10,13 @@ html, body {
     font-style: normal;
 }
 
+@font-face {
+    font-family: "Inter-light";
+    src: url('../fonts/Inter_18pt-Light.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
 .hero {
     position: relative;
     height: 50vh;
@@ -54,6 +61,7 @@ html, body {
 }
 
 .about-me {
+    font-family: "Inter-light", sans-serif;
     padding: 0 20px;
     max-width: 60vw;
     margin: 0px auto;
